@@ -1,5 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/XoLGRbHq)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15297244&assignment_repo_type=AssignmentRepo)
+
 # SE-Assignment-5
 Installation and Navigation of Visual Studio Code (VS Code)
  Instructions:
@@ -30,6 +31,8 @@ Answer the following questions based on your understanding of the installation a
    Step 6. 
    Upon successful download and installation of VSCOde on my sytem, I the clicked the "Launch" button to open the VSCode Application on my machine. 
 
+Source: https://www.supportyourtech.com/tech/how-to-install-vs-code-in-windows-11-a-step-by-step-guide/#google_vignette
+
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
 
@@ -38,6 +41,8 @@ Answer the following questions based on your understanding of the installation a
    ii. Adjusted some important settings including Files, Editors, Font and Workbench
 
    iii. I then set up my preferred shell, in this case it being Git Bash and Command Prompt in the integrated terminal.
+
+Source: https://code.visualstudio.com/Docs/setup/setup-overview
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
@@ -71,12 +76,14 @@ Git Branch: Displays the active Git branch.
 Errors and Warnings: Alerts you to issues in your code.
 Extensions: Shows installed extensions’ status.
 
+Source: https://code.visualstudio.com/docs/getstarted/userinterface
+
 4. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
 
    The Command Palette in Visual Studio Code (VS Code) is a powerful tool that allows you to access various features, commands, and settings directly via keyboard shortcuts or a menu. To open it:
 
-   - Press Ctrl+Shift+P (Windows/Linux) or Cmd+Shift+P (Mac).
+   - For Windows 11, Press Ctrl+Shift+P.
    - Alternatively, use the F1 key.
    - You can also access it from the Application Menu by clicking View > Command Palette.
 
@@ -93,6 +100,8 @@ Extensions: Shows installed extensions’ status.
       o  Changing Language Mode: Search for the language you’re working with (e.g., “Change Language Mode to Python”).
 
       o Customizing Keybindings: Type “Preferences: Open Keyboard Shortcuts” to modify shortcuts.
+
+Source: https://www.nobledesktop.com/learn/visual-studio-code/topic-2b-vs-code-command-palette
 
 5. Extensions in VS Code:
    - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
@@ -134,6 +143,8 @@ Extensions: Shows installed extensions’ status.
 
       o The User can explore other useful extensions like Live Server, GitLens, and Intellisense for CSS class names in HTML.
 
+ Source:  https://code.visualstudio.com/docs/editor/extension-marketplace
+
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
 
@@ -161,6 +172,8 @@ Extensions: Shows installed extensions’ status.
 
    d) External Terminal:
       Should the user want to use an external terminal, they can open it using Ctrl+Shift+C for users of Windows OS.
+
+Source: https://code.visualstudio.com/docs/terminal/basics
    
 
 7. File and Folder Management:
@@ -192,6 +205,9 @@ Extensions: Shows installed extensions’ status.
 
       o To open the Quick Open dialogue and search for files by name, the User can Press Ctrl+P.
 
+Source: https://www.youtube.com/watch?v=-HDdvu5H8RA
+Source: https://code.visualstudio.com/docs/editor/workspaces
+
 8. Settings and Preferences:
    - Where can users find and customize settings in VS Code? Provide examples of how to change the theme, font size, and keybindings.
 
@@ -214,6 +230,7 @@ Extensions: Shows installed extensions’ status.
       - Apply only to the current project.
       - Customize settings specific to your workspace.
 
+Source: https://code.visualstudio.com/docs/getstarted/settings
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
@@ -292,6 +309,8 @@ Source : AI-generated code
       o Exception Handling: Configure how exceptions are handled.
 NB : VS Code’s built-in debugger accelerates your edit-compile-debug loop, making it easier to find and fix issues!
 
+Source: https://code.visualstudio.com/docs/introvideos/debugging
+
 10. Using Source Control:
     - How can users integrate Git with VS Code for version control? Describe the process of initializing a repository, making commits, and pushing changes to GitHub.
 
@@ -349,6 +368,9 @@ NB : VS Code’s built-in debugger accelerates your edit-compile-debug loop, mak
    Verify on GitHub:
 
    o Refresh your GitHub repository page in the browser to see your code there.
+
+Source: https://code.visualstudio.com/docs/introvideos/versioncontrol
+
 
  Submission Guidelines:
 - Your answers should be well-structured, concise, and to the point.
